@@ -12,14 +12,12 @@
 			height: 100vh;
 			margin: 0;
 		}
-
 		h1 {
 			color: #fff;
 			font-size: 4rem;
 			text-align: center;
 			text-shadow: 2px 2px #333;
 		}
-
 		@keyframes gradient {
 			0% {
 				background-position: 0% 50%;
