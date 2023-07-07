@@ -1,4 +1,3 @@
-
 <div style="background: linear-gradient(to right, #ff00cc, #333399); 
             animation: gradient 10s ease infinite; 
             height: 300px; 
