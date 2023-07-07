@@ -1,23 +1,11 @@
 <div align="center">
-  <h1>My Project</h1>
+  <a href="https://apihustle.com">
+    <img src="https://raw.githubusercontent.com/danmindru/danmindru/master/header.svg" width="800" height="auto">
+  </a>
 </div>
 
-<style>
-  body {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
-  }
+-----------------
 
-  @keyframes gradientBG {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
+<div align="center">
+  <p>Hiya</p><br/>
+<div>
