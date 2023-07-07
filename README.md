@@ -1,24 +1,39 @@
-<div style="width: 100; height: 10; background-color:red">
-  hi
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My GitHub Profile</title>
+	<style>
+		body {
+			background-image: linear-gradient(to right, #ff00cc, #333399);
+			animation: gradient 10s ease infinite;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+			margin: 0;
+		}
 
------------------
+		h1 {
+			color: #fff;
+			font-size: 4rem;
+			text-align: center;
+			text-shadow: 2px 2px #333;
+		}
 
-<div align="center">
-  <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p><br/>
-  
-  <a href="https://apihustle.com" target="_blank">
-    <img height="60px" src="https://user-images.githubusercontent.com/1515742/215217833-c07183d2-f688-4d1c-86ea-329f3b28f81c.svg" alt="Apihustle Logo" />
-  </a>
-<div>
-
-Read more on <br/>
-[apihustle.com](https://apihustle.com) <br/>
-
-|    |    |    |    |
-| :- | :- | :- | :- |
-| <a href="https://clobbr.app" target="_blank"><img height="70px" src="https://user-images.githubusercontent.com/1515742/215217949-0fe7096c-10f1-47ec-bdc7-91d8047ddc70.svg" alt="Clobbr Logo" /></a> | **Clobbr** | Debug multiple cron expressions on a calendar. | [clobbr.app](https://clobbr.app) | 
-| <a href="https://crontap.com" target="_blank"><img height="70px" src="https://user-images.githubusercontent.com/1515742/215218037-44233c7d-7e21-4180-8572-6a759a6a118f.svg" alt="Crontap Logo" /></a> | **Crontap** | Schedule API calls using cron syntax. | [crontap.com](https://crontap.com) | 
-| <a href="https://tool.crontap.com" target="_blank"><img height="70px" src="https://user-images.githubusercontent.com/1515742/215217997-fedcc496-a868-40bd-81f9-d07dabc0597e.svg" alt="CronTool Logo" /></a> | **CronTool** | Debug multiple cron expressions on a calendar. | [tool.crontap.com](https://tool.crontap.com)  |
-
------------------
+		@keyframes gradient {
+			0% {
+				background-position: 0% 50%;
+			}
+			50% {
+				background-position: 100% 50%;
+			}
+			100% {
+				background-position: 0% 50%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<h1>Welcome to my GitHub profile!</h1>
+</body>
+</html>
