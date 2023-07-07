@@ -2,6 +2,8 @@
   hi
 </div>
 
+-----------------
+
 <div align="center">
   <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p><br/>
   
