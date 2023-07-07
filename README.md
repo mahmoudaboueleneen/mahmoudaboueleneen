@@ -1,13 +1,23 @@
-<div style="background: linear-gradient(to right, #ff00cc, #333399); 
-            width: 100%; 
-            height: 300px; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center;">
-  <h1 style="color: white; 
-             text-shadow: 2px 2px #333; 
-             font-size: 3rem; 
-             text-align: center;">
-    Welcome to my GitHub profile!
-  </h1>
+<div align="center">
+  <h1>My Project</h1>
 </div>
+
+<style>
+  body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+  }
+
+  @keyframes gradientBG {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
