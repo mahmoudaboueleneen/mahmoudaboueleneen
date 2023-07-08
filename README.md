@@ -1,6 +1,6 @@
 -----------------
 
-I build cool stuff 🛠️
+I love creating amazing software
 
 
 
