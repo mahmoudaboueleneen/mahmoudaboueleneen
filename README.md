@@ -1,2 +1,2 @@
-<img src="bg.gif" width="80%">
+<img src="bg.gif" width="100%"> Hey</img>
 
