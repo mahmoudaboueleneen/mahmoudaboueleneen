@@ -1,4 +1,3 @@
------------------
 
 I love creating amazing software for the world 👨🏼‍💻
 
