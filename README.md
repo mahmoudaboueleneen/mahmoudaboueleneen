@@ -1,12 +1,14 @@
-# [Your Name]
-
-Hi there! I'm **[Your Name]**, a **[Your Occupation/Title]** based in **[Your Location]**. I'm passionate about **[Your Interests/Passions]**.
-
-![Gilfoyle Silicon Valley](https://media1.tenor.com/images/6b7d0c628e3f8f1a5d48b6b3a1c0b9b9/tenor.gif?itemid=10385881)
-
-Currently, I'm working on **[Project Name/Description]**. In my free time, I enjoy **[Your Hobbies/Activities]**.
-
-Feel free to reach out to me at **[Your Email]** or connect with me on **[Social Media Platform]**.
-
-*Thanks for stopping by!*
-
+<table>
+  <tr>
+    <td>
+      <img src="./bg.gif" width="100%">
+    </td>
+    <td width="100%">
+      <h1>[Your Name]</h1>
+      <p>Hi there! I'm <b>[Your Name]</b>, a <b>[Your Occupation/Title]</b> based in <b>[Your Location]</b>. I'm passionate about <b>[Your Interests/Passions]</b>.</p>
+      <p>Currently, I'm working on <b>[Project Name/Description]</b>. In my free time, I enjoy <b>[Your Hobbies/Activities]</b>.</p>
+      <p>Feel free to reach out to me at <b>[Your Email]</b> or connect with me on <b>[Social Media Platform]</b>.</p>
+      <p><i>Thanks for stopping by!</i></p>
+    </td>
+  </tr>
+</table>
