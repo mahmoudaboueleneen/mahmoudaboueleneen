@@ -1,8 +1,6 @@
 
-I love creating amazing software for the world 👨🏼‍💻
-
-That's about it!
-
------------------
+<div>
+  <img src="https://tenor.com/view/gilfoyle-silicon-valley-gif-10385881">
+</div>
 
 
