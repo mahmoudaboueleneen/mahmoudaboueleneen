@@ -1,6 +1,6 @@
 -----------------
 
-#### Hello! 
+#### Hey
 
 I'm Mahmoud, and I love creating amazing software for the world 👨🏼‍💻
 
