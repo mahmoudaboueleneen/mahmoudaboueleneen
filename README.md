@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./bg.gif" width="100%">
+      <img src="bg.gif" width="100%">
     </td>
     <td width="100%">
       <h1>[Your Name]</h1>
